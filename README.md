@@ -1,6 +1,6 @@
-#Data Scientist | Data Analayst | AI & ML
+# Data Scientist | Data Analayst | AI & ML
 
-##Work Experience
+## Work Experience
 
 VizCloud Technologies									 	                                                                            Mountain View, California
 Software Engineer Intern | Analytics				           	              	            	   	                           August 2023 – Till Date 
@@ -34,7 +34,7 @@ Associate Software Engineer | Data Science				 			                              
 
 
 
-##Technical Skills
+## Technical Skills
 
 Programming & Frameworks:     Python [Spacy, Nltk, Sklearn, NumPy, Pandas, Keras, PyTorch, TensorFlow, Beautiful Soup], R Programming
 Cloud: 	                      Databricks, Azure ML, Azure Form Recognizer, AWS [S3, EC2, Glue, Redshift], DataLake, GCP Bigquery
